@@ -76,6 +76,23 @@
     font-weight: normal;
 }
 
+.btn-pressre {
+    border: 2px solid #2c2f8d;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    background-color: #2c2f8d;
+    color: #fff;
+}
+
+.btn-pressre:hover {
+    border: 2px solid #4549b7;
+    border-radius: 8px;
+    background-color: #4549b7;
+    color: #fff;
+}
 
 /*** Navbar ***/
 .navbar.fixed-top {
